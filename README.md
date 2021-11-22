@@ -7,18 +7,18 @@ https://labs.f-secure.com/blog/a-bit-of-a-fixer-upper-playing-with-the-fix-tcp-p
 
 # Installation
 
-Can be manually installed by clone this repository and then from within Burp Suite:
-1. select the Extender tab
-2. click the Add button
-3. change the Extension type to Python
-4. select fixerupper.py as the extension file.
+Can be manually installed by cloning this repository and then from within Burp Suite:
+1. selecting the Extender tab
+2. clicking the Add button
+3. changing the Extension type to Python
+4. selecting fixerupper.py as the extension file.
 
 ### Note
 
-FixerUpper requires Burp Suite to be configured to use Jython. For installation please see:
+The extension requires Burp Suite to be configured to use Jython. For installation please see:
 https://portswigger.net/burp/help/extender.html#options_pythonenv
 
-FixerUpper is designed to help with interception and modification of the TCP-based FIX protocol. As such, this extension is intended to be used with a TCP relay tool like MitM_Relay.py. You can find that here:
+FixerUpper is designed and intended to help with interception and modification of the TCP-based FIX protocol. As such, it is expected to be used with a TCP relay tool like MitM_Relay.py:
 https://github.com/jrmdev/mitm_relay
 
 
