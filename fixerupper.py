@@ -1,5 +1,6 @@
 """
-@author: Oliver Simonnet (@AppSecOllie)
+FixerUpper v0.1
+Author: Oliver Simonnet (@AppSecOllie)
 
 Released as open source by F-Secure Labs (c) 2021
 under BSD 3-Clause License. See LICENSE for more.
