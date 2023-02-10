@@ -2,8 +2,8 @@
 
 A Burp extension to enable modification of FIX messages when relayed from MitM_Relay
 
-Blog post:
-https://labs.f-secure.com/blog/a-bit-of-a-fixer-upper-playing-with-the-fix-tcp-protocol
+# Blog post:
+https://labs.withsecure.com/publications/a-bit-of-a-fixer-upper-testing-fix-backed-applications
 
 # Installation
 
